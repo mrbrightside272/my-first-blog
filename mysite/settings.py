@@ -25,7 +25,7 @@ SECRET_KEY = 'zav2_xdkdb1a8zru_^6w1839zt)w@gqc&1*gyj-a8o4s+3*8j&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [qafanis.pythonanywhere.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
